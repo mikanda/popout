@@ -2,7 +2,7 @@
   "name": "popout",
   "repo": "mikanda/popout",
   "description": "Component to show an element popped out.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {
     "timoxley/overlay": "0.3.1",
