@@ -1,0 +1,1 @@
+module.exports = '<div id="popout" class="hide">\n</div>\n';

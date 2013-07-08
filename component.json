@@ -1,0 +1,26 @@
+{
+  "name": "popout",
+  "repo": "mikanda/popout",
+  "description": "Component to show an element popped out.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "timoxley/overlay": "*",
+    "component/domify": "*",
+    "component/classes": "*",
+    "component/query": "*"
+  },
+  "development": {
+    "visionmedia/mocha": "*",
+    "chaijs/chai": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "popout.css"
+  ]
+}
